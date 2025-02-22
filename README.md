@@ -1,7 +1,1 @@
-# TestGit
-# TestGit
-# TestGit
-# TestGit
-# TestGit
-# TestGit
-# Flappy-birth
+# Đây là file PHP về giao diện 
